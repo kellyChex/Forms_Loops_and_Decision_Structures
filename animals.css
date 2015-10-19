@@ -1,0 +1,18 @@
+.info {
+  margin-left: 50%;
+  margin-top: 15%;
+  position: absolute;
+
+}
+
+#lion {
+  display: none;
+}
+
+#snake {
+  display: none;
+}
+
+#turtle {
+  display: none;
+}
